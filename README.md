@@ -11,10 +11,7 @@ Cruise through a quiet night highway with smooth driving and chill music. Perfec
 - Endless gameplay – no stress, just vibes
 
 ## 🕹️ Play Online
-[Click here to play](https://yourusername.github.io/night-time-highway/)
-
-## 💾 Download
-[Download for Windows (.exe)](https://github.com/yourusername/night-time-highway/releases)
+[Click here to play](https://szg-zone.github.io/NightTime-Highway/)
 
 ## 📸 Screenshots
 _Add a few game screenshots here if possible._
