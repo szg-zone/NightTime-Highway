@@ -13,6 +13,9 @@ Cruise through a quiet night highway with smooth driving and chill music. Perfec
 ## 🕹️ Play Online
 [Click here to play](https://szg-zone.github.io/NightTime-Highway/)
 
+## 💸 Buy 
+[ITCH.IO](https://szg-zone.itch.io/night-time-highway)
+
 ## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/szg-zone/NightTime-Highway/releases/download/v1.0/Nighttime.Highway.png" alt="Nighttime Highway Screenshot 1" width="45%" />
