@@ -10,11 +10,11 @@ Cruise through a quiet night highway with smooth driving and chill music. Perfec
 - Peaceful music and visuals
 - Endless gameplay – no stress, just vibes
 
-## 🕹️ Play Online
-[Click here to play](https://szg-zone.github.io/NightTime-Highway/)
-
-## 💸 Buy 
+## 💸 Buy
 [ITCH.IO](https://szg-zone.itch.io/night-time-highway)
+
+## 🕹️ Play Demo
+[Click here to play](https://szg-zone.github.io/NightTime-Highway/)
 
 ## 📸 Screenshots
 <p align="center">
